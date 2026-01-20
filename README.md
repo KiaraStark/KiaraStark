@@ -1,7 +1,6 @@
-# Welcom my friend!
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiaraStark&show_icons=true&theme=radical&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KiaraStark&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiaraStark&show_icons=true&theme=radical&include_all_commits=true)
 
 ## Skill Set
 ### Language:
