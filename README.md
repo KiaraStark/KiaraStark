@@ -1,6 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KiaraStark&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KiaraStark&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiaraStark&show_icons=true&theme=light&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiaraStark&show_icons=true&theme=default&include_all_commits=true)
 
 ## Skill Set
 ### Language:
