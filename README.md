@@ -40,6 +40,6 @@
 
 
 
-![Top Langs](https://github-readme-stats-ten-coral-89.vercel.app/api/top-langs/?username=KiaraStark&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats-ten-coral-89.vercel.app/api/top-langs/?username=KiaraStark&layout=pie&theme=default)
 
-![Anurag's GitHub stats](https://github-readme-stats-ten-coral-89.vercel.app/api?username=KiaraStark&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-coral-89.vercel.app/api?username=KiaraStark&show_icons=true&theme=default)
