@@ -1,5 +1,12 @@
-## Hello~ Hello~，欢迎来到我的主页，鼠鼠是雌鼠，今年22岁，i人，爱好睡觉吃饭打游戏，目前计划读博，正在努力申请喵
+## 👋 Hello~ Hello~，欢迎来到我的主页，雌鼠，22岁，i人，爱好睡觉吃饭打游戏，目前计划读博，正在努力申请喵
 
+🎓 UESTC · 计算机技术 · 研一在读 
+
+🔬 专注于 **AI Infra / HPC / 系统底层优化**
+
+🛠️ 当前折腾：CUDA · Ascend C · eBPF · RISC-V 调度器
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -28,18 +35,14 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white)
 
-### 🌐 Backend Frameworks
+### 🌐 Full Stack
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MyBatis-Plus](https://img.shields.io/badge/MyBatis_Plus-ED1C24?style=flat-square&logo=mybatis&logoColor=white)
-
-### 🗄️ Database & Middleware
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### 🎨 Frontend & Full‑Stack
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
