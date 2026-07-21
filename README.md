@@ -39,6 +39,12 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-ten-coral-89.vercel.app/api/top-langs/?username=KiaraStark&layout=pie&theme=default)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats-ten-coral-89.vercel.app/api/top-langs/?username=KiaraStark&layout=compact&theme=default)
 
 ![Anurag's GitHub stats](https://github-readme-stats-ten-coral-89.vercel.app/api?username=KiaraStark&show_icons=true&theme=default)
+
+</div>
