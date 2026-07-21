@@ -1,10 +1,7 @@
-## 👋 Hello~ Hello~，欢迎来到我的主页，雌鼠，22岁，i人，爱好睡觉吃饭打游戏，目前计划读博，正在努力申请喵
-
+## 👋 Hello~ Hello~
+✨ 欢迎来到我的主页，雌鼠，22岁，i人，爱好睡觉吃饭打游戏，目前计划读博，正在努力申请喵
 🎓 UESTC · 计算机技术 · 研一在读 
-
-🔬 专注于 **AI Infra / HPC / 系统底层优化**
-
-🛠️ 当前折腾：CUDA · Ascend C · eBPF · RISC-V 调度器
+🔬 focus on os for ai
 
 ---
 ## 🛠️ Tech Stack
