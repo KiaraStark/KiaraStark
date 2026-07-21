@@ -30,6 +30,6 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats-ten-coral-89.vercel.app/api/top-langs/?username=KiaraStark&layout=pie&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-coral-89.vercel.app/api?username=KiaraStark&show_icons=true&theme=radical)
