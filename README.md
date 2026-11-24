@@ -5,9 +5,9 @@
 
 🔬 focus on os for ai
 
-CSDN https://blog.csdn.net/m0_61788919?type=blog
+📝 CSDN https://blog.csdn.net/m0_61788919?type=blog
 
-欢迎找我玩喵😋，本人极度宅女，现实基本没有朋友（orz）
+欢迎找我玩或者给我提建议喵😋，本人极度宅女，现实基本没有朋友（orz）
 
 ---
 ## 🛠️ Tech Stack
