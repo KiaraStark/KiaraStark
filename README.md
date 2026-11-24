@@ -5,6 +5,8 @@
 
 🔬 focus on os for ai
 
+CSDN https://blog.csdn.net/m0_61788919?spm=1000.2115.3001.5343
+
 ---
 ## 🛠️ Tech Stack
 
